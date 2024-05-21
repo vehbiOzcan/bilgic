@@ -23,6 +23,14 @@ class Categories {
         imagePath: './lib/images/ai.png',
         prompt: Prompts.aiPrompt),
     Category(
+        title: 'Yemek',
+        imagePath: './lib/images/food.png',
+        prompt: Prompts.foodPrompt),
+    Category(
+        title: 'Oyun',
+        imagePath: './lib/images/game.png',
+        prompt: Prompts.gamePrompt),
+    Category(
         title: 'Genel',
         imagePath: './lib/images/general.png',
         prompt: Prompts.generalPrompt),

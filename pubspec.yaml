@@ -73,6 +73,8 @@ flutter:
       - ./lib/images/translate.png #app logo
       - ./lib/images/tech.png #app logo
       - ./lib/images/ai.png #app logo
+      - ./lib/images/food.png #app logo
+      - ./lib/images/game.png #app logo
       - ./lib/images/google.png #app logo
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
